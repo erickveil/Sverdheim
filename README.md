@@ -4,3 +4,4 @@ This is the release repo for my game, Sverdheim. It is a roguelike (roguelike in
 
 - [Releases](https://github.com/erickveil/Sverdheim/releases)
 - [Todo](https://github.com/erickveil/Sverdheim/projects/1)
+- [Blog](https://sverdheim.com)
